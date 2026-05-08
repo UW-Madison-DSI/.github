@@ -1,0 +1,52 @@
+name: Refresh org banner
+
+on:
+  schedule:
+    # Every day at 06:00 UTC (01:00 Madison)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "profile/template.html"
+      - ".github/scripts/render-banner.mjs"
+      - "package.json"
+      - ".github/workflows/refresh-banner.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install deps
+        run: npm ci || npm install
+
+      - name: Install Chromium for Playwright
+        run: npx playwright install --with-deps chromium
+
+      - name: Render banner
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ORG: UW-Madison-DSI
+        run: npm run render
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "dsi-banner-bot"
+          git config user.email "dsi-banner-bot@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain profile/banner.png)" ]]; then
+            git add profile/banner.png
+            git commit -m "chore(banner): refresh stats $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "No changes."
+          fi

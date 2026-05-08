@@ -1,10 +1,8 @@
 <p align="center">
   <a href="https://dsi.wisc.edu/">
-    <img src="https://dsi.wisc.edu/wp-content/uploads/sites/1408/2023/11/DSI-Logo_Horizontal_RedBlack-1.svg" alt="UW-Madison Data Science Institute" width="480">
+    <img src="banner.png" alt="UW-Madison Data Science Institute" width="100%">
   </a>
 </p>
-
-<h3 align="center">Accelerating research through the power of data science</h3>
 
 <p align="center">
   <a href="https://dsi.wisc.edu/">Website</a> &bull;
