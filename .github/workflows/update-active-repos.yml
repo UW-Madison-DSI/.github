@@ -1,0 +1,32 @@
+name: Update active repos in profile README
+
+on:
+  schedule:
+    - cron: '0 12 * * 1'   # Mondays at 12:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate active repos section
+        env:
+          GH_TOKEN: ${{ secrets.ORG_READ_TOKEN }}   # PAT with read:org + repo (for private repos)
+          ORG: UW-Madison-DSI
+        run: node .github/scripts/update-readme.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/README.md
+          git diff --cached --quiet || git commit -m "chore: refresh active repos"
+          git push
