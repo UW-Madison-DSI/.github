@@ -28,7 +28,7 @@ jobs:
           cache: "npm"
 
       - name: Install deps
-        run: npm ci || npm install
+        run: npm ci
 
       - name: Install Chromium for Playwright
         run: npx playwright install --with-deps chromium
