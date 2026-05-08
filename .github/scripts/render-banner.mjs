@@ -81,7 +81,7 @@ async function render({ repos, contributors }) {
   const browser = await chromium.launch();
   try {
     const ctx = await browser.newContext({
-      viewport: { width: 1280, height: 320 },
+      viewport: { width: 1280, height: 200 },
       deviceScaleFactor: 2,    // crisper output
     });
     const page = await ctx.newPage();
