@@ -47,6 +47,18 @@ Our projects span a wide range of domains, reflecting the breadth of data-driven
 - **Contributors**: Browse our repositories below and check individual project READMEs for contribution guidelines.
 
 <!-- ACTIVE_REPOS:START -->
+### 🔥 Most active repos (last 30 days)
+
+| Repo | Commits | Description |
+| --- | ---: | --- |
+| [llm-ag-forecasting-app](https://github.com/UW-Madison-DSI/llm-ag-forecasting-app) | 30 | Open Source LLM powered Ag forecasting app for crop management decision making (v3) |
+| [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 18 |  |
+| [reproducible-research-framework](https://github.com/UW-Madison-DSI/reproducible-research-framework) | 10 | Presentation about reproducible research using MyST and Quarto |
+| [no2_scaling](https://github.com/UW-Madison-DSI/no2_scaling) | 7 |  |
+| [uw-style-reproducible-reporting](https://github.com/UW-Madison-DSI/uw-style-reproducible-reporting) | 7 | A config-driven Python framework that generates a self-contained HTML data exploration report with UW-Madison branding. Point it at a CSV, describe your variables in a YAML file, and get a styled report with EDA plots, summary statistics, and a fitted model — no notebooks required. |
+| [FEAST_educational_materials](https://github.com/UW-Madison-DSI/FEAST_educational_materials) | 5 | Educational materials for onboarding student workers to the FEAST project |
+
+_Updated 2026-07-20_
 <!-- ACTIVE_REPOS:END -->
 
 ## Connect
