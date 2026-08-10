@@ -52,13 +52,13 @@ Our projects span a wide range of domains, reflecting the breadth of data-driven
 | Repo | Commits | Description |
 | --- | ---: | --- |
 | [llm-ag-forecasting-app](https://github.com/UW-Madison-DSI/llm-ag-forecasting-app) | 30 | Open Source LLM powered Ag forecasting app for crop management decision making (v3) |
-| [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 21 |  |
 | [weather_api](https://github.com/UW-Madison-DSI/weather_api) | 20 | fetch HRRR data easily |
+| [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 18 |  |
+| [.github](https://github.com/UW-Madison-DSI/.github) | 7 |  |
 | [no2_scaling](https://github.com/UW-Madison-DSI/no2_scaling) | 7 |  |
-| [.github](https://github.com/UW-Madison-DSI/.github) | 6 |  |
 | [pelican-data-loader](https://github.com/UW-Madison-DSI/pelican-data-loader) | 4 | Pelican-backed data loader prototype. |
 
-_Updated 2026-08-03_
+_Updated 2026-08-10_
 <!-- ACTIVE_REPOS:END -->
 
 ## Connect
