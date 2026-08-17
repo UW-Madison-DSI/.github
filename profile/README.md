@@ -52,13 +52,13 @@ Our projects span a wide range of domains, reflecting the breadth of data-driven
 | Repo | Commits | Description |
 | --- | ---: | --- |
 | [llm-ag-forecasting-app](https://github.com/UW-Madison-DSI/llm-ag-forecasting-app) | 30 | Open Source LLM powered Ag forecasting app for crop management decision making (v3) |
+| [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 27 |  |
 | [weather_api](https://github.com/UW-Madison-DSI/weather_api) | 20 | fetch HRRR data easily |
-| [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 18 |  |
-| [.github](https://github.com/UW-Madison-DSI/.github) | 7 |  |
-| [no2_scaling](https://github.com/UW-Madison-DSI/no2_scaling) | 7 |  |
-| [pelican-data-loader](https://github.com/UW-Madison-DSI/pelican-data-loader) | 4 | Pelican-backed data loader prototype. |
+| [pelican-data-loader](https://github.com/UW-Madison-DSI/pelican-data-loader) | 11 | Pelican-backed data loader prototype. |
+| [.github](https://github.com/UW-Madison-DSI/.github) | 6 |  |
+| [midbody-remnant-rna-profiling](https://github.com/UW-Madison-DSI/midbody-remnant-rna-profiling) | 3 | Code for "Integrated RNA, translation, and proteome profiling reveals midbody remnants as selectively organized signaling vesicles" |
 
-_Updated 2026-08-10_
+_Updated 2026-08-17_
 <!-- ACTIVE_REPOS:END -->
 
 ## Connect
