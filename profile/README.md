@@ -51,14 +51,14 @@ Our projects span a wide range of domains, reflecting the breadth of data-driven
 
 | Repo | Commits | Description |
 | --- | ---: | --- |
+| [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 34 |  |
 | [llm-ag-forecasting-app](https://github.com/UW-Madison-DSI/llm-ag-forecasting-app) | 30 | Open Source LLM powered Ag forecasting app for crop management decision making (v3) |
-| [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 27 |  |
-| [weather_api](https://github.com/UW-Madison-DSI/weather_api) | 20 | fetch HRRR data easily |
 | [pelican-data-loader](https://github.com/UW-Madison-DSI/pelican-data-loader) | 11 | Pelican-backed data loader prototype. |
 | [.github](https://github.com/UW-Madison-DSI/.github) | 6 |  |
-| [midbody-remnant-rna-profiling](https://github.com/UW-Madison-DSI/midbody-remnant-rna-profiling) | 3 | Code for "Integrated RNA, translation, and proteome profiling reveals midbody remnants as selectively organized signaling vesicles" |
+| [weather_api](https://github.com/UW-Madison-DSI/weather_api) | 4 | fetch HRRR data easily |
+| [wsmb-meta](https://github.com/UW-Madison-DSI/wsmb-meta) | 3 | Reproduce meta-analysis with LLM. |
 
-_Updated 2026-08-17_
+_Updated 2026-08-24_
 <!-- ACTIVE_REPOS:END -->
 
 ## Connect
