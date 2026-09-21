@@ -51,13 +51,14 @@ Our projects span a wide range of domains, reflecting the breadth of data-driven
 
 | Repo | Commits | Description |
 | --- | ---: | --- |
-| [exsoil-nsf-prototype-refactor](https://github.com/UW-Madison-DSI/exsoil-nsf-prototype-refactor) | 36 | EXSOIL NSF prototype tool from soil data to experimentation |
+| [exsoil-nsf-prototype-refactor](https://github.com/UW-Madison-DSI/exsoil-nsf-prototype-refactor) | 41 | EXSOIL NSF prototype tool from soil data to experimentation |
 | [llm-ag-forecasting-app](https://github.com/UW-Madison-DSI/llm-ag-forecasting-app) | 29 | Open Source LLM powered Ag forecasting app for crop management decision making (v3) |
-| [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 9 |  |
 | [.github](https://github.com/UW-Madison-DSI/.github) | 6 |  |
 | [pelican-data-loader](https://github.com/UW-Madison-DSI/pelican-data-loader) | 4 | Pelican-backed data loader prototype. |
+| [weather_api](https://github.com/UW-Madison-DSI/weather_api) | 2 | fetch HRRR data easily |
+| [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 2 |  |
 
-_Updated 2026-09-14_
+_Updated 2026-09-21_
 <!-- ACTIVE_REPOS:END -->
 
 ## Connect
