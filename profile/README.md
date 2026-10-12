@@ -51,14 +51,14 @@ Our projects span a wide range of domains, reflecting the breadth of data-driven
 
 | Repo | Commits | Description |
 | --- | ---: | --- |
-| [llm-ag-forecasting-app](https://github.com/UW-Madison-DSI/llm-ag-forecasting-app) | 29 | Open Source LLM powered Ag forecasting app for crop management decision making (v3) |
-| [s3-backup-script](https://github.com/UW-Madison-DSI/s3-backup-script) | 20 | backup data to s3 |
-| [exsoil-nsf-prototype-refactor](https://github.com/UW-Madison-DSI/exsoil-nsf-prototype-refactor) | 13 | EXSOIL NSF prototype tool from soil data to experimentation |
-| [.github](https://github.com/UW-Madison-DSI/.github) | 7 |  |
-| [weather_api](https://github.com/UW-Madison-DSI/weather_api) | 2 | fetch HRRR data easily |
-| [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 1 |  |
+| [llm-ag-forecasting-app](https://github.com/UW-Madison-DSI/llm-ag-forecasting-app) | 28 | Open Source LLM powered Ag forecasting app for crop management decision making (v3) |
+| [s3-backup-script](https://github.com/UW-Madison-DSI/s3-backup-script) | 9 | backup data to s3 |
+| [.github](https://github.com/UW-Madison-DSI/.github) | 5 |  |
+| [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 4 | Web crawling agent + Structural extraction |
+| [exsoil-nsf-prototype-refactor](https://github.com/UW-Madison-DSI/exsoil-nsf-prototype-refactor) | 3 | EXSOIL NSF prototype tool from soil data to experimentation |
+| [hela_hpv18](https://github.com/UW-Madison-DSI/hela_hpv18) | 2 |  |
 
-_Updated 2026-09-28_
+_Updated 2026-10-12_
 <!-- ACTIVE_REPOS:END -->
 
 ## Connect
