@@ -51,14 +51,13 @@ Our projects span a wide range of domains, reflecting the breadth of data-driven
 
 | Repo | Commits | Description |
 | --- | ---: | --- |
-| [llm-ag-forecasting-app](https://github.com/UW-Madison-DSI/llm-ag-forecasting-app) | 28 | Open Source LLM powered Ag forecasting app for crop management decision making (v3) |
-| [s3-backup-script](https://github.com/UW-Madison-DSI/s3-backup-script) | 9 | backup data to s3 |
+| [llm-ag-forecasting-app](https://github.com/UW-Madison-DSI/llm-ag-forecasting-app) | 22 | Open Source LLM powered Ag forecasting app for crop management decision making (v3) |
 | [.github](https://github.com/UW-Madison-DSI/.github) | 5 |  |
 | [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 4 | Web crawling agent + Structural extraction |
-| [exsoil-nsf-prototype-refactor](https://github.com/UW-Madison-DSI/exsoil-nsf-prototype-refactor) | 3 | EXSOIL NSF prototype tool from soil data to experimentation |
+| [s3-backup-script](https://github.com/UW-Madison-DSI/s3-backup-script) | 3 | backup data to s3 |
 | [hela_hpv18](https://github.com/UW-Madison-DSI/hela_hpv18) | 2 |  |
 
-_Updated 2026-10-12_
+_Updated 2026-10-19_
 <!-- ACTIVE_REPOS:END -->
 
 ## Connect
