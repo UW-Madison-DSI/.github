@@ -18,13 +18,14 @@ permissions:
 
 jobs:
   refresh:
-    runs-on: ubuntu-latest
+    # Pinned: Playwright 1.59.1 can't install Chromium on ubuntu-26.04 (ubuntu-latest since 2026-10-24)
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "24"
           cache: "npm"
 
       - name: Install deps
