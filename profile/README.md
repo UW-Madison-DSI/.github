@@ -51,13 +51,13 @@ Our projects span a wide range of domains, reflecting the breadth of data-driven
 
 | Repo | Commits | Description |
 | --- | ---: | --- |
-| [llm-ag-forecasting-app](https://github.com/UW-Madison-DSI/llm-ag-forecasting-app) | 8 | Open Source LLM powered Ag forecasting app for crop management decision making (v3) |
 | [pixi-docker-chtc](https://github.com/UW-Madison-DSI/pixi-docker-chtc) | 4 | Example configurations for using containerized pixi environments with HTCondor and GPUs |
-| [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 4 | Web crawling agent + Structural extraction |
-| [hela_hpv18](https://github.com/UW-Madison-DSI/hela_hpv18) | 3 |  |
-| [.github](https://github.com/UW-Madison-DSI/.github) | 3 |  |
+| [.github](https://github.com/UW-Madison-DSI/.github) | 3 | Landing page of GitHub organization |
+| [hela_hpv18](https://github.com/UW-Madison-DSI/hela_hpv18) | 1 |  |
+| [agentic-web-extraction](https://github.com/UW-Madison-DSI/agentic-web-extraction) | 1 | Web crawling agent + Structural extraction |
+| [llm-ag-forecasting-app](https://github.com/UW-Madison-DSI/llm-ag-forecasting-app) | 1 | Open Source LLM powered Ag forecasting app for crop management decision making (v3) |
 
-_Updated 2026-11-02_
+_Updated 2026-11-09_
 <!-- ACTIVE_REPOS:END -->
 
 ## Connect
